@@ -1,0 +1,38 @@
+.container-login {
+    margin: 0;
+    padding: 0;
+}
+
+.bg-cover {
+    background: url('https://i.imgur.com/4fCE64D.png') center center;
+    background-size: cover;
+    float: left;
+    width: 50%;
+    height: 100vh;
+}
+
+.side-login {
+    background-color: #F6F6F6;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-box {
+    width: 80%;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: white;
+}
+
+.btnside {
+    margin-left: 15px;
+}
+
+.error-msg {
+    background-color: #F8DCDE;
+    padding: 10px;
+    border-radius: 5px;
+}
+
