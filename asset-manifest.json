@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firebase-auth/static/css/main.20d1d0b5.chunk.css",
+    "main.js": "/firebase-auth/static/js/main.d7429365.chunk.js",
+    "main.js.map": "/firebase-auth/static/js/main.d7429365.chunk.js.map",
+    "runtime~main.js": "/firebase-auth/static/js/runtime~main.6592ee79.js",
+    "runtime~main.js.map": "/firebase-auth/static/js/runtime~main.6592ee79.js.map",
+    "static/js/2.ef5d2913.chunk.js": "/firebase-auth/static/js/2.ef5d2913.chunk.js",
+    "static/js/2.ef5d2913.chunk.js.map": "/firebase-auth/static/js/2.ef5d2913.chunk.js.map",
+    "index.html": "/firebase-auth/index.html",
+    "precache-manifest.3c5695fe4cc99a06529a1541aee41e2f.js": "/firebase-auth/precache-manifest.3c5695fe4cc99a06529a1541aee41e2f.js",
+    "service-worker.js": "/firebase-auth/service-worker.js",
+    "static/css/main.20d1d0b5.chunk.css.map": "/firebase-auth/static/css/main.20d1d0b5.chunk.css.map"
+  }
+}
