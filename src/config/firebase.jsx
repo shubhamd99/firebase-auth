@@ -3,7 +3,7 @@ import "firebase/auth";
 
 
 const config = {
-    apiKey: "AIzaSyA9N3vgipRQV9NmOXpoPqa701i52f0-Pp0",
+    apiKey: "YOUR_API_KEY",
     authDomain: "durable-jet-230615.firebaseapp.com",
     databaseURL: "https://durable-jet-230615.firebaseio.com",
     projectId: "durable-jet-230615",
